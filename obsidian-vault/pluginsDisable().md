@@ -1,0 +1,22 @@
+---
+source_file: "cli/src/commands/plugins-toggle.ts"
+type: "code"
+community: "Community 169"
+location: "L29"
+tags:
+  - graphify/code
+  - graphify/EXTRACTED
+  - community/Community_169
+---
+
+# pluginsDisable()
+
+## Connections
+- [[disableGlobalPlugin()]] - `calls` [EXTRACTED]
+- [[main()_1]] - `calls` [EXTRACTED]
+- [[pluginName()]] - `calls` [EXTRACTED]
+- [[plugins-toggle.ts]] - `contains` [EXTRACTED]
+- [[printLists()]] - `calls` [EXTRACTED]
+- [[srccli.ts]] - `imports` [EXTRACTED]
+
+#graphify/code #graphify/EXTRACTED #community/Community_169

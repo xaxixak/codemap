@@ -1,0 +1,88 @@
+---
+source_file: "src/server/handlers.ts"
+type: "code"
+community: "Community 7"
+location: "L1"
+tags:
+  - graphify/code
+  - graphify/EXTRACTED
+  - community/Community_7
+---
+
+# handlers.ts
+
+## Connections
+- [[EMBEDDING_MODELS]] - `imports` [EXTRACTED]
+- [[REPO_ROOT]] - `imports` [EXTRACTED]
+- [[SearchResponse]] - `imports` [EXTRACTED]
+- [[SearchResult_2]] - `imports` [EXTRACTED]
+- [[VECTOR_URL]] - `imports` [EXTRACTED]
+- [[arra-oracle-v3ref_drizzle_orm]] - `imports_from` [EXTRACTED]
+- [[arra-oracle-v3ref_fs]] - `imports_from` [EXTRACTED]
+- [[arra-oracle-v3ref_path]] - `imports_from` [EXTRACTED]
+- [[arra-oracle-v3src_db_index_indexingstatus]] - `imports` [EXTRACTED]
+- [[arra-oracle-v3src_db_index_oracledocuments]] - `imports` [EXTRACTED]
+- [[buildFtsQuery()]] - `contains` [EXTRACTED]
+- [[buildLearningMarkdown()]] - `imports` [EXTRACTED]
+- [[coerceConcepts()]] - `imports` [EXTRACTED]
+- [[combineSearchResults()]] - `contains` [EXTRACTED]
+- [[compare.ts]] - `imports_from` [EXTRACTED]
+- [[cosineDistanceToSimilarity()]] - `contains` [EXTRACTED]
+- [[cpu-capabilities.ts]] - `imports_from` [EXTRACTED]
+- [[createVectorProxy()]] - `imports` [EXTRACTED]
+- [[dateSlug()]] - `imports` [EXTRACTED]
+- [[db]] - `imports` [EXTRACTED]
+- [[dbindex.ts]] - `imports_from` [EXTRACTED]
+- [[detectProject()]] - `imports` [EXTRACTED]
+- [[ensureVectorStoreConnected()]] - `imports` [EXTRACTED]
+- [[factory.ts]] - `imports_from` [EXTRACTED]
+- [[getVectorStoreConfigByModel()]] - `imports` [EXTRACTED]
+- [[graph.ts]] - `imports_from` [EXTRACTED]
+- [[handleGraph()]] - `contains` [EXTRACTED]
+- [[handleLearn()]] - `contains` [EXTRACTED]
+- [[handleList()_1]] - `contains` [EXTRACTED]
+- [[handleReflect()_1]] - `contains` [EXTRACTED]
+- [[handleSearch()]] - `contains` [EXTRACTED]
+- [[handleSessionSummary()]] - `contains` [EXTRACTED]
+- [[handleStats()]] - `contains` [EXTRACTED]
+- [[healthstats.ts]] - `imports_from` [EXTRACTED]
+- [[indexingStatus]] - `imports` [EXTRACTED]
+- [[isDbLockError()]] - `imports` [EXTRACTED]
+- [[isVectorSectionEnabled()]] - `imports` [EXTRACTED]
+- [[knowledgelearn.ts]] - `imports_from` [EXTRACTED]
+- [[learn-slug-collision.test.ts]] - `dynamic_import` [EXTRACTED]
+- [[localNativeVectorDisabledReason()]] - `imports` [EXTRACTED]
+- [[localVectorIndexMissingReason()]] - `imports` [EXTRACTED]
+- [[localVectorOperations]] - `imports` [EXTRACTED]
+- [[logDocumentAccess()]] - `imports` [EXTRACTED]
+- [[logLearning()]] - `imports` [EXTRACTED]
+- [[logLocalVectorDisabled()]] - `imports` [EXTRACTED]
+- [[logSearch()]] - `imports` [EXTRACTED]
+- [[logging.ts]] - `imports_from` [EXTRACTED]
+- [[markdown.ts]] - `imports_from` [EXTRACTED]
+- [[normalizeRank()]] - `contains` [EXTRACTED]
+- [[oracleDocuments]] - `imports` [EXTRACTED]
+- [[persistLearningDoc()]] - `contains` [EXTRACTED]
+- [[project-detect.ts]] - `imports_from` [EXTRACTED]
+- [[runFtsAll()]] - `contains` [EXTRACTED]
+- [[runFtsGet()]] - `contains` [EXTRACTED]
+- [[search-fts-query.test.ts]] - `dynamic_import` [EXTRACTED]
+- [[search-no-avx-fallback.test.ts]] - `dynamic_import` [EXTRACTED]
+- [[search-vector-opt-in.test.ts]] - `dynamic_import` [EXTRACTED]
+- [[search-vector-proxy-fallback.test.ts]] - `dynamic_import` [EXTRACTED]
+- [[search-vector-proxy-total.test.ts]] - `dynamic_import` [EXTRACTED]
+- [[searchlist.ts]] - `imports_from` [EXTRACTED]
+- [[searchreflect.ts]] - `imports_from` [EXTRACTED]
+- [[searchsearch.ts]] - `imports_from` [EXTRACTED]
+- [[servertypes.ts]] - `imports_from` [EXTRACTED]
+- [[sessionssummary.ts]] - `imports_from` [EXTRACTED]
+- [[sqlite]] - `imports` [EXTRACTED]
+- [[srcconfig.ts]] - `imports_from` [EXTRACTED]
+- [[srcvectorconfig.ts]] - `imports_from` [EXTRACTED]
+- [[toolslearn.ts]] - `imports_from` [EXTRACTED]
+- [[vector-operations.ts]] - `imports_from` [EXTRACTED]
+- [[vector-proxy.ts]] - `imports_from` [EXTRACTED]
+- [[vector-score.test.ts]] - `imports_from` [EXTRACTED]
+- [[vectorProxy_1]] - `contains` [EXTRACTED]
+
+#graphify/code #graphify/EXTRACTED #community/Community_7

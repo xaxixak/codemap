@@ -1,0 +1,20 @@
+---
+source_file: "src/tools/search.ts"
+type: "code"
+community: "Community 79"
+location: "L108"
+tags:
+  - graphify/code
+  - graphify/EXTRACTED
+  - community/Community_79
+---
+
+# parseConceptsFromMetadata()
+
+## Connections
+- [[search.test.ts]] - `imports` [EXTRACTED]
+- [[toolsindex.ts]] - `re_exports` [EXTRACTED]
+- [[toolssearch.ts]] - `contains` [EXTRACTED]
+- [[vectorSearch()]] - `calls` [EXTRACTED]
+
+#graphify/code #graphify/EXTRACTED #community/Community_79

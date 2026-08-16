@@ -1,0 +1,24 @@
+---
+source_file: "src/tools/__tests__/mcp-proxy-fallback.test.ts"
+type: "code"
+community: "Community 24"
+location: "L1"
+tags:
+  - graphify/code
+  - graphify/EXTRACTED
+  - community/Community_24
+---
+
+# mcp-proxy-fallback.test.ts
+
+## Connections
+- [[arra-oracle-v3ref_bun_test]] - `imports_from` [EXTRACTED]
+- [[arra-oracle-v3ref_fs]] - `imports_from` [EXTRACTED]
+- [[arra-oracle-v3ref_modelcontextprotocol_sdk_client_index_js]] - `imports_from` [EXTRACTED]
+- [[arra-oracle-v3ref_modelcontextprotocol_sdk_client_stdio_js]] - `imports_from` [EXTRACTED]
+- [[arra-oracle-v3ref_os]] - `imports_from` [EXTRACTED]
+- [[arra-oracle-v3ref_path]] - `imports_from` [EXTRACTED]
+- [[repoRoot_3]] - `contains` [EXTRACTED]
+- [[tempDirs_4]] - `contains` [EXTRACTED]
+
+#graphify/code #graphify/EXTRACTED #community/Community_24

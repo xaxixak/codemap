@@ -4,6 +4,9 @@
 set -e
 G=./venv/Scripts/graphify.exe
 REPOS=(
+  "D:/Work/Ai Dev/Company/Business APP/business-erp"
+  "D:/Work/Ai Dev/revanmo"
+  "D:/Work/Ai Dev/Wiz-Wi"
   "D:/Oracles/github.com/Soul-Brews-Studio/arra-oracle-v3"
   "D:/Oracles/github.com/xaxixak/fleet-monitor"
   "D:/Oracles/.oracle/mqtt-channel"

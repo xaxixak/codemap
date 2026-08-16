@@ -1,0 +1,17 @@
+---
+source_file: "src/server/plugin/unified.ts"
+type: "code"
+community: "Community 60"
+location: "L17"
+tags:
+  - graphify/code
+  - graphify/EXTRACTED
+  - community/Community_60
+---
+
+# BUNDLED_PLUGIN_DIR
+
+## Connections
+- [[unified.ts]] - `contains` [EXTRACTED]
+
+#graphify/code #graphify/EXTRACTED #community/Community_60
